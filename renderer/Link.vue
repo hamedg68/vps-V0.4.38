@@ -5,7 +5,8 @@
 </template>
 <style scoped>
 a {
-  padding: 3px 10px;
+  padding: 2px 10px;
+  margin-left: -10px;
 }
 a.active {
   background-color: #eee;
